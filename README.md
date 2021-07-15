@@ -2,7 +2,7 @@
 	Etiket-Aracı
 
 Python Tkinter ile uygulanan, görüntülerdeki nesne sınırlayıcı kutuları etiketlemek için kullanılan bir araç.
-Aracı çalıştırmak için Terminale "python main.py" yazıp enter tuşuna basmanız yeterlidir.
+Aracı çalıştırmak için 'main.py' dosyasını açıp terminale "python main.py" yazıp enter tuşuna basmanız yeterlidir.
 
 ![image](https://user-images.githubusercontent.com/32781351/125852346-00935def-8b46-4384-8d6a-f51e1d79a0f2.png)
 
