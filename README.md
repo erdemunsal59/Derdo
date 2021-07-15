@@ -4,6 +4,9 @@
 Python Tkinter ile uygulanan, görüntülerdeki nesne sınırlayıcı kutuları etiketlemek için kullanılan bir araç.
 Aracı çalıştırmak için Terminale "python main.py" yazıp enter tuşuna basmanız yeterlidir.
 
+![image](https://user-images.githubusercontent.com/32781351/125852346-00935def-8b46-4384-8d6a-f51e1d79a0f2.png)
+
+
 Etiket Aracı
 
 -main.py # Araç için kaynak kod
@@ -21,6 +24,9 @@ Bu program şunları içeriyor:
 -Giriş görüntüleri.
 -Çıkış etiketleri.
 -Bu dizinleri Görüntü giriş klasörü ve Etiket çıktı klasörü olarak seçebilir veya girişte dizin adını girebilirsiniz.
+
+![image](https://user-images.githubusercontent.com/32781351/125852482-4a696e33-5cd8-4596-a1c0-4bba96a6a7e8.png)
+
 
 1. Görüntü yükle'ye tıklayın. Etiketlenecek resimlerin bulunduğu klasörü seçin. Klasörde etiketlenecek resimler, örnek sonuçla birlikte yüklenecektir. 
 Etiketli dosya dizini, mevcut değilse otomatik olarak oluşturulur.
